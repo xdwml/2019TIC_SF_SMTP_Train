@@ -61,3 +61,7 @@
 - `mailer-configure.js`: SMTP配置文件
 - `general.template.html`: 邮件的模板
 - `send-mailer.js`: 发送脚本
+
+编辑`mailer-configure.js`文件，配置账号和密码；为了不给别人添麻烦，请把`targerEmail`设为你自己的邮箱。
+
+打开Shell，执行执行`npm run send-mail`，到你的邮箱查看你给你自己发送的邮件。
