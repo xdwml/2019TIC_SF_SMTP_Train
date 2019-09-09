@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src=".github/logo.png" alt="logo"/>
+  <img src="docs/logo.png" alt="logo"/>
 </p>
 
 > 第二次活动的主题教程和素材仓库
@@ -13,7 +13,7 @@
 
 ## 快慢加密
 
-![](.github/slow-fast-hash.jpg)
+![](docs/slow-fast-hash.jpg)
 
 在工程目录下，有一个`sf-hash`文件夹，包含以下文件：
 
@@ -25,7 +25,7 @@
 
 你需要完成`Backend.js`和`Frontend.js`中相应的【TODO】，然后在主目录下，执行(Windows)`CallShell.bat`文件，输入命令行:`npm run sf-test`，当你看到以下内容时，说明你完成了测试：
 
-![](.github/sf-test.jpg)
+![](docs/sf-test.jpg)
 
 ## SMTP练习
 
@@ -39,7 +39,7 @@
 
 阿里云操作流程：
 
-![](.github/aliyun-1.jpg)
+![](docs/aliyun-1.jpg)
 
 1. 新建域名，如`mail.<your-domain>`；
 2. 点击【配置】，会出现各类DNS记录配置值；
