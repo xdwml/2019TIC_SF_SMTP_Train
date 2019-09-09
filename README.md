@@ -1,4 +1,9 @@
-# 账户相关
+
+<p align="center">
+  <img src="/.github/logo.png" alt="logo"/>
+</p>
+
+> 第二次活动的主题教程和素材仓库
 
 ## 基本练习
 
