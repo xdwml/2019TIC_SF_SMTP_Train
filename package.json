@@ -1,0 +1,16 @@
+{
+  "name": "2018ticmenttor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sf-test": "node ./sf-hash/test.js",
+    "send-mail": "node ./mail/send-mailer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "nodemailer": "^6.3.0"
+  }
+}
